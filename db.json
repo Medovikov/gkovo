@@ -1,7 +1,7 @@
 {
   "myquest": [
     { "id": 1, "body": "hello", "postId": 1 },
-    { "id": 1, "body": "hi", "postId": 5 }
+    { "id": 5, "body": "hi", "postId": 5 }
   ],
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
