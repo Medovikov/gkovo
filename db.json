@@ -1,6 +1,6 @@
 {
   "myquest": [
-    { "id": 1, "body": "hello", "postId": 1 }
+    { "id": 1, "body": "hello", "postId": 1 },
     { "id": 2, "body": "hi", "postId": 2 }
   ],
   "posts": [
